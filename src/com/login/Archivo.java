@@ -50,6 +50,7 @@ public class Archivo extends javax.swing.JFrame {
             
     public Archivo() {
         initComponents();
+        this.setLocationRelativeTo(null);
         rp = new Proceso();
         
         try{

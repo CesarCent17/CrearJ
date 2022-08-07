@@ -21,6 +21,7 @@ public class login extends javax.swing.JFrame {
         initComponents();
         System.out.println("Prueba Cesar");
         System.out.println("Cambio de Cesar #2");
+        this.setLocationRelativeTo(null);
 
         //archivos a1 = new archivos();
         //a1.setSize(765, 540);
