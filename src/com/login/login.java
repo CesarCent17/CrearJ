@@ -23,6 +23,8 @@ public class login extends javax.swing.JFrame {
         System.out.println("Cambio de Cesar #2");
         this.setLocationRelativeTo(null);
         System.out.println("Parte 3 del video");
+        System.out.println("Cambio 4");
+
 
         //archivos a1 = new archivos();
         //a1.setSize(765, 540);
