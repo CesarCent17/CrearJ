@@ -19,7 +19,7 @@ public class login extends javax.swing.JFrame {
      */
     public login() {
         initComponents();
-        
+        System.out.println("Prueba Cesar");
         //archivos a1 = new archivos();
         //a1.setSize(765, 540);
         //a1.setLocation(0, 0);
